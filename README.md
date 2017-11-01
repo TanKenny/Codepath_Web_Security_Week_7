@@ -11,7 +11,7 @@ Time spent: **4** hours spent in total
     - Vulnerability types: XXS
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: https://gfycat.com/gifs/detail/WetMixedAurochs
+  - [ ] GIF Walkthrough: https://gfycat.com/gifs/detail/BothAgileGypsymoth
   - [ ] Steps to recreate: 
             1. Rename an image file with the following img src= a onerror= alert(document.cookie) .jpg
             2. Create a post, upload, and publish 
